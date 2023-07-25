@@ -15,7 +15,7 @@
 
  <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="30px" height="30px" alt="python"></a> [Python](https://swamp-shaker-ff8.notion.site/115a0378972f4abe8b7a4cc12ffd778a?v=22bb8966251443fd803432e5d8078380&pvs=4)
 
- 2023.7~
+ Since 2023.7~
 
 ---
 
