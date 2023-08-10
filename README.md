@@ -8,7 +8,7 @@
 
 *Since* 2023.07 ~
 
-![hluuy's github stats](https://github-readme-stats.vercel.app/api?username=hluuy&theme=aura_dark&show_icons=true)
+![hluuy's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hluuy&theme=aura_dark&show_icons=true)
 
 ## Studying
 현재 공부는 이렇게 하고 있어요 
