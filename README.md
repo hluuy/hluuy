@@ -8,7 +8,9 @@
 
 *Since* 2023.07 ~
 
-![hluuy's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hluuy&theme=bear&show_icons=true)
+[![hluuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluuy?theme=bear)](https://github.com/hluuy/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hluuy&layout=compact)](https://github.com/hluuy/github-readme-stats)
 
 ## Studying
