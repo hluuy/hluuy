@@ -8,10 +8,6 @@
 
 *Since* 2023.07 ~
 
-[![hluuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluuy&theme=bear)](https://github.com/hluuy/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hluuy&layout=compact)](https://github.com/hluuy/github-readme-stats)
 
 ## Studying
 현재 공부는 이렇게 하고 있어요 
