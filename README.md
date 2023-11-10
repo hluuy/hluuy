@@ -8,20 +8,3 @@
 
 *Since* 2023.07 ~
 
-
-## Studying
-현재 공부는 이렇게 하고 있어요 
-
- <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="30px" height="30px" alt="python"></a> [Python](https://github.com/hluuy/TIL/tree/a222edbcb5b3c60ca56843d495bd87e91d937345/Python)
-
- Since 2023.7~
-
----
-
- <a href="https://emoji.gg/emoji/7692-pikachujam"><img src="https://cdn3.emoji.gg/emojis/7692-pikachujam.gif" width="30px" height="30px" alt="PikachuJam"></a> [Algorithm](https://github.com/hluuy/TIL/tree/a222edbcb5b3c60ca56843d495bd87e91d937345/Algorithm)
-
----
-
-<a href="https://emoji.gg/emoji/1320-pepe-noted"><img src="https://cdn3.emoji.gg/emojis/1320-pepe-noted.gif" width="30px" height="30px" alt="pepe_noted"></a> [Today's](https://github.com/hluuy/TIL)
-
-
