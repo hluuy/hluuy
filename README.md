@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/hluuy_/" target="_blank"><img src="https://img.shields.io/badge/hluuy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
 # 안녕하세요 유영준입니다. :baby_chick:
 
 **SSAFY 10기**
